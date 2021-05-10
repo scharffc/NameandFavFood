@@ -40,4 +40,7 @@ Guo | Ramen
 
 Manuel | Tacos
 
+Christelle | Frites
+
 Bamba Fall | Lasagnes
+
