@@ -52,3 +52,5 @@ Cupidon | Tajine
 Louise | poisson Braisé
 
 Louise | thiep poulet
+
+Bamba Athj | Riz au poisson 
