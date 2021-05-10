@@ -1,4 +1,3 @@
-
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
@@ -43,8 +42,18 @@ Manuel | Tacos
 
 Christelle | Frites
 
-Bamba Fall | Lasagnes
+Bamba Fall | Chicken Lasagnas
 
 Louise | Poulet Braisé
 
+Melissa| Alloco
+
+Cupidon | Tajine
+
+Louise | poisson Braisé
+ 
 Robert | foufou
+
+Louise | thiep poulet
+
+Bamba Athj | Riz au poisson 
