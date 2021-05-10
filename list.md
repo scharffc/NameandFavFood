@@ -46,6 +46,8 @@ Bamba Fall | Chicken Lasagnas
 
 Louise | Poulet Braisé
 
+Cupidon | Tajine
+
 Louise | poisson Braisé
 
 Louise | thiep poulet
