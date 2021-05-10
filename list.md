@@ -58,4 +58,4 @@ Louise | thiep poulet
 
 Bamba Athj | Riz au poisson 
 
-Lee | Frite
+Lee | Frites
