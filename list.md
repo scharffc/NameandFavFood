@@ -42,7 +42,7 @@ Manuel | Tacos
 
 Christelle | Frites
 
-Bamba Fall | Lasagnes
+Bamba Fall | Chicken Lasagnas
 
 Louise | Poulet Braisé
 
