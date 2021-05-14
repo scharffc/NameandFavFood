@@ -81,3 +81,5 @@ Fatoumata | frites
 Abdoulfatah Houssein | Pizza 
 
 Youssou | Thiéb
+
+Mouhamed Bakhoum | Riz au Poulet
