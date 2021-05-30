@@ -83,3 +83,5 @@ Abdoulfatah Houssein | Pizza
 Youssou | Thiéb
 
 Mouhamed Bakhoum | Riz au Poulet
+
+Sokhna Assy DJITTE | Tagliatelle 
