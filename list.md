@@ -89,3 +89,5 @@ Sokhna Assy DJITTE | Tagliatelle
 Oumar Thiaw | Mafè
 
 Malick Diallo | Thiébou Niébé
+
+Louise Sandrine Ekobe | riz poulet
