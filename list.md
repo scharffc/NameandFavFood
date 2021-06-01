@@ -93,3 +93,5 @@ Malick Diallo | Thiébou Niébé
 Louise Sandrine Ekobe | riz poulet
 
 Alassane Hameth Sow | attiéké alloco poulet
+
+Arafan Antoni Gomis Sanha | paela
