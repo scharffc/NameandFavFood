@@ -1,4 +1,4 @@
-What is your name, favorite food?
+﻿What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
@@ -76,6 +76,18 @@ Ousseini Adamou | Tacos
 
 Louise | thiep blanc
 
+Fatoumata | frites
+
+Abdoulfatah Houssein | Pizza 
+
+Youssou | Thiéb
+
+Mouhamed Bakhoum | Riz au Poulet
+
+Sokhna Assy DJITTE | Tagliatelle 
+
+Oumar Thiaw | Mafè
+
+Malick Diallo | Thiébou Niébé
+
 Louise Sandrine Ekobe | riz poulet
-
-
