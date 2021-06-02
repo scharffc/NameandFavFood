@@ -97,3 +97,5 @@ Alassane Hameth Sow | attiéké alloco poulet
 Arafan Antoni Gomis Sanha | paela
 
 Aissatou cebe Diallo | yassa poulet
+
+Jenny Thérèsa Samba | cupcake au chocholat 
