@@ -26,7 +26,7 @@ Maksym | Pizza
 
 Karl | Drunken Noodles
 
-Stella | BonChon Chicken 
+Stella | BonChon Chicken
 
 Zheming | Mooncakes
 
@@ -51,12 +51,12 @@ Melissa| Alloco
 Cupidon | Tajine
 
 Louise | poisson Braisé
- 
+
 Robert | foufou
 
 Louise | thiep poulet
 
-Bamba Athj | Riz au poisson 
+Bamba Athj | Riz au poisson
 
 Lee | Frites
 
@@ -78,13 +78,13 @@ Louise | thiep blanc
 
 Fatoumata | frites
 
-Abdoulfatah Houssein | Pizza 
+Abdoulfatah Houssein | Pizza
 
 Youssou | Thiéb
 
 Mouhamed Bakhoum | Riz au Poulet
 
-Sokhna Assy DJITTE | Tagliatelle 
+Sokhna Assy DJITTE | Tagliatelle
 
 Oumar Thiaw | Mafè
 
@@ -98,4 +98,6 @@ Arafan Antoni Gomis Sanha | paela
 
 Aissatou cebe Diallo | yassa poulet
 
-Jenny Thérèsa Samba | cupcake au chocolat 
+Jenny Thérèsa Samba | cupcake au chocolat
+
+Salvatore Ardisi | sfogliatelle
