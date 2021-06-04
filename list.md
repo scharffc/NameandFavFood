@@ -98,4 +98,6 @@ Arafan Antoni Gomis Sanha | paela
 
 Aissatou cebe Diallo | yassa poulet
 
-Jenny Thérèsa Samba | cupcake au chocolat 
+Jenny Thérèsa Samba | cupcake au chocolat
+
+Kristina Mancini | Ice Cream
