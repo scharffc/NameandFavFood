@@ -101,3 +101,6 @@ Aissatou cebe Diallo | yassa poulet
 Jenny Thérèsa Samba | cupcake au chocolat
 
 Salvatore Ardisi | sfogliatelle
+
+Kristina Mancini | Ice Cream
+
