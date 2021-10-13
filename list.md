@@ -110,4 +110,18 @@ Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
 
+Geetanjali Kanojia | Cookies
+
+Christelle Scharff | Croissant
+
+Christelle Scharff | Tartiflette
+
+Josh Comia | pork bbq
+
+Joseph Newbury | Burger
+
+Benjamin Fein | Milkshake
+
+Kevin Lutz | Lobster Tail
+
 Prince Paul | Burger
