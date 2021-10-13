@@ -109,3 +109,23 @@ John Brilhart |Salmon with Garlic Butter
 Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
+<<<<<<< HEAD
+=======
+
+Geetanjali Kanojia | Cookies
+
+
+Christelle Scharff | Croissant
+
+Christelle Scharff | Tartiflette
+
+Josh Comia | pork bbq
+
+Joseph Newbury | Burger
+
+Benjamin Fein | Milkshake
+
+Kevin Lutz | Lobster Tail
+
+Emma Hilts | Tacos
+>>>>>>> f04071fb2e2e49ba09fabd9485b1a214cde8d3c2
