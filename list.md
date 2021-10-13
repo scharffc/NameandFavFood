@@ -1,4 +1,4 @@
-﻿What is your name, favorite food?
+What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
@@ -110,8 +110,22 @@ Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
 
+Emma Hilts | Tacos
+
+Geetanjali Kanojia | Cookies
+
 Christelle Scharff | Croissant
 
 Christelle Scharff | Tartiflette
 
 Abdulmalik Alotaibi | Big Mac
+
+Josh Comia | pork bbq
+
+Joseph Newbury | Burger
+
+Benjamin Fein | Milkshake
+
+Kevin Lutz | Lobster Tail
+
+Prince Paul | Burger
