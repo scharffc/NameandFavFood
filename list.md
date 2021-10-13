@@ -110,8 +110,6 @@ Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
 
-Emma Hilts | Tacos
-
 Geetanjali Kanojia | Cookies
 
 
@@ -127,3 +125,4 @@ Benjamin Fein | Milkshake
 
 Kevin Lutz | Lobster Tail
 
+Emma Hilts | Tacos
