@@ -110,4 +110,8 @@ Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
 
+Christelle Scharff | Croissant
+
+Christelle Scharff | Tartiflette
+
 Joseph Newbury | Burger
