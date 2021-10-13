@@ -110,8 +110,6 @@ Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
 
-Emma Hilts | Tacos
-
 Geetanjali Kanojia | Cookies
 
 Christelle Scharff | Croissant
@@ -139,3 +137,5 @@ Patrick Dwyer | Linguini and Clams
 Aleya | Pizza
 
 Geetanjali Kanojia | Carrots
+
+Emma Hilts | Tacos
