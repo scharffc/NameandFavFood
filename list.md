@@ -109,3 +109,5 @@ John Brilhart |Salmon with Garlic Butter
 Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
+
+Patrick Dwyer | Linguini and Clams
