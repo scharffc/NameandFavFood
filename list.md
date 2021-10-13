@@ -1,4 +1,4 @@
-﻿What is your name, favorite food?
+What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
@@ -109,6 +109,8 @@ John Brilhart |Salmon with Garlic Butter
 Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
+
+Emma Hilts | Tacos
 
 Geetanjali Kanojia | Cookies
 
