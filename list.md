@@ -145,3 +145,5 @@ Paul Spadaccini | Pasta
 Yi Liu | Pizza
 
 Boyi Zhang | Hot pot
+
+Cassandra Thomas | Gnocchi
