@@ -149,3 +149,5 @@ Boyi Zhang | Hot pot
 Cassandra Thomas | Gnocchi
 
 Ty | Chicken
+
+John Beltran | Lomo
