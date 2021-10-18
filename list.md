@@ -134,6 +134,8 @@ Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
 
+Robert Zecchini | Escargot
+
 Aleya | Pizza
 
 Geetanjali Kanojia | Carrots
@@ -166,12 +168,45 @@ Kai Wang | Rice
 
 Houqi | Spicy Chicken
 
+
 Christelle | Choucroute
 
 Christelle | Thieb
 
+Cassandra | mango
+
+Christelle | Mafe
+
 Prince Paul | Tacos
+
+Kevin Lutz | Turkey Burger
 
 Benjamin Fein | Pizza 
 
-Linlan | rice
+Patrick Dwyer | Penne Pizza
+
+Josh | Adobo and rice
+
+Geetanjali | Chicken
+
+Sean | Penne alla Vodka
+
+Kai Wang | White rice
+
+Geetanjali | Chicken
+
+Abdulmalik Alotaibi | Pizza
+
+BZ | Fish
+
+Paul | Pizza
+
+Emma Hilts| Pizza
+
+Cameron Sweeney | Chicken Marsala
+
+Houqi Zhan | Hot pot
+
+Robert Zecchini | Babyback Ribs
+
+LC | rice
