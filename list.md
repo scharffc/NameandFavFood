@@ -130,8 +130,6 @@ Kevin Lutz | Lobster Tail
 
 Prince Paul | Burger
 
-Abdulmalik Alotaibi | Pizza
-
 Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
@@ -195,3 +193,5 @@ Kai Wang | White rice
 Geetanjali | Chicken
 
 Paul | Pizza
+
+Abdulmalik Alotaibi | Pizza
