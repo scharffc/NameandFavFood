@@ -184,7 +184,7 @@ Patrick Dwyer | Penne Pizza
 
 Josh | Adobo and rice
 
+Kai Wang | White rice
+
 Geetanjali | Chicken
-
-
 
