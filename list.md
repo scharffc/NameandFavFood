@@ -184,10 +184,8 @@ Patrick Dwyer | Penne Pizza
 
 Josh | Adobo and rice
 
-<<<<<<< HEAD
-Robert Zecchini | Babyback Ribs
-=======
 Geetanjali | Chicken
 
->>>>>>> 6e63b436e749ec10cd357ebfd9f95aa597909cc8
+Robert Zecchini | Babyback Ribs
+
 
