@@ -170,6 +170,11 @@ Christelle | Choucroute
 
 Christelle | Thieb
 
-Josh | Adobo and rice
+Prince Paul | Tacos
 
+Benjamin Fein | Pizza 
+
+Patrick Dwyer | Penne Pizza
+
+Josh | Adobo and rice
 
