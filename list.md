@@ -170,7 +170,13 @@ Christelle | Choucroute
 
 Christelle | Thieb
 
+Cassandra | mango
+
+Christelle | Mafe
+
 Prince Paul | Tacos
+
+Kevin Lutz | Turkey Burger
 
 Benjamin Fein | Pizza 
 
@@ -180,3 +186,6 @@ Josh | Adobo and rice
 
 Sean | Penne alla Vodka
 
+Kai Wang | White rice
+
+Geetanjali | Chicken
