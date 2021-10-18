@@ -174,5 +174,13 @@ Christelle | Thieb
 
 Prince Paul | Tacos
 
+Kevin Lutz | Turkey Burger
+
+Benjamin Fein | Pizza 
+
+Patrick Dwyer | Penne Pizza
+
+Josh | Adobo and rice
+
 Robert Zecchini | Babyback Ribs
 
