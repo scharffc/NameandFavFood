@@ -30,7 +30,7 @@ Stella | BonChon Chicken
 
 Zheming | Mooncakes
 
-Michael | Quesadillas
+Michael | Sushi
 
 Naglis | Kebabs
 
@@ -130,6 +130,8 @@ Kevin Lutz | Lobster Tail
 
 Prince Paul | Burger
 
+Abdulmalik Alotaibi | Pizza
+
 Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
@@ -143,6 +145,8 @@ Emma Hilts | Tacos
 Paul Spadaccini | Pasta
 
 Yi Liu | Pizza
+
+Linlan Cai | ramen
 
 Boyi Zhang | Hot pot
 
@@ -160,6 +164,45 @@ Ty | Chicken and Broccoli
 
 Bisheng Zeng | Roast Lamb
 
+Kai Wang | Rice
+
 Houqi | Spicy Chicken
+
+
+Christelle | Choucroute
+
+Christelle | Thieb
+
+Cassandra | mango
+
+Christelle | Mafe
+
+Prince Paul | Tacos
+
+Kevin Lutz | Turkey Burger
+
+Benjamin Fein | Pizza 
+
+Patrick Dwyer | Penne Pizza
+
+
+Josh | Adobo and rice
+
+Geetanjali | Chicken
+
+Sean | Penne alla Vodka
+
+Kai Wang | White rice
+
+Geetanjali | Chicken
+
+
+BZ | Fish
+
+Paul | Pizza
+
+Emma Hilts| Pizza
+
+Cameron Sweeney | Chicken Marsala
 
 Houqi Zhan | Hot pot
