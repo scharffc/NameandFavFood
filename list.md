@@ -166,6 +166,7 @@ Kai Wang | Rice
 
 Houqi | Spicy Chicken
 
+
 Christelle | Choucroute
 
 Christelle | Thieb
@@ -173,3 +174,39 @@ Christelle | Thieb
 Prince Paul | Tacos
 
 Yi Liu | Pizza
+
+Cassandra | mango
+
+Christelle | Mafe
+
+Prince Paul | Tacos
+
+Kevin Lutz | Turkey Burger
+
+Benjamin Fein | Pizza 
+
+Patrick Dwyer | Penne Pizza
+
+Josh | Adobo and rice
+
+Geetanjali | Chicken
+
+Sean | Penne alla Vodka
+
+Kai Wang | White rice
+
+Geetanjali | Chicken
+
+Abdulmalik Alotaibi | Pizza
+
+BZ | Fish
+
+Paul | Pizza
+
+Emma Hilts| Pizza
+
+Cameron Sweeney | Chicken Marsala
+
+Houqi Zhan | Hot pot
+
+
