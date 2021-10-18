@@ -134,9 +134,8 @@ Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
 
-<<<<<<< HEAD
 Robert Zecchini | Escargot
-=======
+
 Aleya | Pizza
 
 Geetanjali Kanojia | Carrots
