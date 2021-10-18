@@ -1,4 +1,4 @@
-﻿What is your name, favorite food?
+What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
@@ -110,13 +110,84 @@ Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
 
+Geetanjali Kanojia | Cookies
 
 Christelle Scharff | Croissant
 
 Christelle Scharff | Tartiflette
 
+Abdulmalik Alotaibi | Burger
+
+Josh Comia | pork bbq
+
 Joseph Newbury | Burger
+
+Jonathan Sánchez | Bistec Encebollado
 
 Benjamin Fein | Milkshake
 
 Kevin Lutz | Lobster Tail
+
+Prince Paul | Burger
+
+Cameron Sweeney | Curry Rice
+
+Patrick Dwyer | Linguini and Clams
+
+Aleya | Pizza
+
+Geetanjali Kanojia | Carrots
+
+Emma Hilts | Tacos
+
+Paul Spadaccini | Pasta
+
+Yi Liu | Pizza
+
+Linlan Cai | ramen
+
+Boyi Zhang | Hot pot
+
+Cassandra Thomas | Gnocchi
+
+Ty | Chicken
+
+John Beltran | Lomo
+
+John | Pizza
+
+Ty | Platanos
+
+Ty | Chicken and Broccoli
+
+Bisheng Zeng | Roast Lamb
+
+Kai Wang | Rice
+
+Houqi | Spicy Chicken
+
+Christelle | Choucroute
+
+Christelle | Thieb
+
+Cassandra | mango
+
+Christelle | Mafe
+
+Prince Paul | Tacos
+
+Kevin Lutz | Turkey Burger
+
+Benjamin Fein | Pizza 
+
+Patrick Dwyer | Penne Pizza
+
+Josh | Adobo and rice
+
+Sean | Penne alla Vodka
+
+Kai Wang | White rice
+
+Geetanjali | Chicken
+
+Michael | Empanadas
