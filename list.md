@@ -30,7 +30,7 @@ Stella | BonChon Chicken
 
 Zheming | Mooncakes
 
-Michael | Quesadillas
+Michael | Sushi
 
 Naglis | Kebabs
 
