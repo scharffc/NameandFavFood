@@ -30,7 +30,7 @@ Stella | BonChon Chicken
 
 Zheming | Mooncakes
 
-Michael | Quesadillas
+Michael | Sushi
 
 Naglis | Kebabs
 
@@ -144,6 +144,8 @@ Paul Spadaccini | Pasta
 
 Yi Liu | Pizza
 
+Linlan Cai | ramen
+
 Boyi Zhang | Hot pot
 
 Cassandra Thomas | Gnocchi
@@ -160,4 +162,10 @@ Ty | Chicken and Broccoli
 
 Bisheng Zeng | Roast Lamb
 
+
 Kai Wang | Rice
+
+
+Houqi | Spicy Chicken
+
+
