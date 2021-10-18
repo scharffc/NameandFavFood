@@ -162,6 +162,10 @@ Ty | Chicken and Broccoli
 
 Bisheng Zeng | Roast Lamb
 
+
+Kai Wang | Rice
+
+
 Houqi | Spicy Chicken
 
 
