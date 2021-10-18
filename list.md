@@ -130,8 +130,6 @@ Kevin Lutz | Lobster Tail
 
 Prince Paul | Burger
 
-Abdulmalik Alotaibi | Pizza
-
 Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
@@ -184,7 +182,6 @@ Benjamin Fein | Pizza
 
 Patrick Dwyer | Penne Pizza
 
-
 Josh | Adobo and rice
 
 Geetanjali | Chicken
@@ -195,6 +192,7 @@ Kai Wang | White rice
 
 Geetanjali | Chicken
 
+Abdulmalik Alotaibi | Pizza
 
 BZ | Fish
 
@@ -203,3 +201,4 @@ Paul | Pizza
 Emma Hilts| Pizza
 
 Cameron Sweeney | Chicken Marsala
+
