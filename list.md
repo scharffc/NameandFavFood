@@ -168,6 +168,6 @@ Kai Wang | Rice
 
 Houqi | Spicy Chicken
 
-John Beltran | Idk, food
+John Beltran | StrawBerry
 
 
