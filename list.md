@@ -118,7 +118,7 @@ Christelle Scharff | Croissant
 
 Christelle Scharff | Tartiflette
 
-Abdulmalik Alotaibi | Big Mac
+Abdulmalik Alotaibi | Burger
 
 Josh Comia | pork bbq
 
