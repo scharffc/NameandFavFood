@@ -161,3 +161,5 @@ Ty | Chicken and Broccoli
 Bisheng Zeng | Roast Lamb
 
 Houqi | Spicy Chicken
+
+Houqi Zhan | Hot pot
