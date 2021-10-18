@@ -166,6 +166,7 @@ Kai Wang | Rice
 
 Houqi | Spicy Chicken
 
+
 Christelle | Choucroute
 
 Christelle | Thieb
@@ -201,4 +202,6 @@ Paul | Pizza
 Emma Hilts| Pizza
 
 Cameron Sweeney | Chicken Marsala
+
+Houqi Zhan | Hot pot
 
