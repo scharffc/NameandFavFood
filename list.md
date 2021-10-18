@@ -134,6 +134,8 @@ Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
 
+Robert Zecchini | Escargot
+
 Aleya | Pizza
 
 Geetanjali Kanojia | Carrots
@@ -204,4 +206,6 @@ Emma Hilts| Pizza
 Cameron Sweeney | Chicken Marsala
 
 Houqi Zhan | Hot pot
+
+Robert Zecchini | Babyback Ribs
 
