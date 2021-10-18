@@ -130,6 +130,8 @@ Kevin Lutz | Lobster Tail
 
 Prince Paul | Burger
 
+Abdulmalik Alotaibi | Pizza
+
 Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
@@ -170,11 +172,34 @@ Christelle | Choucroute
 
 Christelle | Thieb
 
+Cassandra | mango
+
+Christelle | Mafe
+
 Prince Paul | Tacos
+
+Kevin Lutz | Turkey Burger
 
 Benjamin Fein | Pizza 
 
 Patrick Dwyer | Penne Pizza
 
-Cameron Sweeney | Chicken Marsala
 
+Josh | Adobo and rice
+
+Geetanjali | Chicken
+
+Sean | Penne alla Vodka
+
+Kai Wang | White rice
+
+Geetanjali | Chicken
+
+
+BZ | Fish
+
+Paul | Pizza
+
+Emma Hilts| Pizza
+
+Cameron Sweeney | Chicken Marsala
