@@ -130,8 +130,6 @@ Kevin Lutz | Lobster Tail
 
 Prince Paul | Burger
 
-Abdulmalik Alotaibi | Pizza
-
 Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
@@ -170,6 +168,7 @@ Kai Wang | Rice
 
 Houqi | Spicy Chicken
 
+
 Christelle | Choucroute
 
 Christelle | Thieb
@@ -196,9 +195,17 @@ Kai Wang | White rice
 
 Geetanjali | Chicken
 
+Abdulmalik Alotaibi | Pizza
+
+BZ | Fish
+
 Paul | Pizza
 
 Emma Hilts| Pizza
+
+Cameron Sweeney | Chicken Marsala
+
+Houqi Zhan | Hot pot
 
 Robert Zecchini | Babyback Ribs
 
