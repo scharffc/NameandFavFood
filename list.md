@@ -30,7 +30,7 @@ Stella | BonChon Chicken
 
 Zheming | Mooncakes
 
-Michael | Quesadillas
+Michael | Sushi
 
 Naglis | Kebabs
 
@@ -110,15 +110,13 @@ Dennis Castellanos | Baleadas
 
 Sean Cesario | Chicken
 
-Emma Hilts | Tacos
-
 Geetanjali Kanojia | Cookies
 
 Christelle Scharff | Croissant
 
 Christelle Scharff | Tartiflette
 
-Abdulmalik Alotaibi | Big Mac
+Abdulmalik Alotaibi | Burger
 
 Josh Comia | pork bbq
 
@@ -136,4 +134,42 @@ Cameron Sweeney | Curry Rice
 
 Patrick Dwyer | Linguini and Clams
 
+<<<<<<< HEAD
 Robert Zecchini | Escargot
+=======
+Aleya | Pizza
+
+Geetanjali Kanojia | Carrots
+
+Emma Hilts | Tacos
+
+Paul Spadaccini | Pasta
+
+Yi Liu | Pizza
+
+Linlan Cai | ramen
+
+Boyi Zhang | Hot pot
+
+Cassandra Thomas | Gnocchi
+
+Ty | Chicken
+
+John Beltran | Lomo
+
+John | Pizza
+
+Ty | Platanos
+
+Ty | Chicken and Broccoli
+
+Bisheng Zeng | Roast Lamb
+
+
+Kai Wang | Rice
+
+
+Houqi | Spicy Chicken
+
+
+>>>>>>> c4d886c1b4a34827e477c20603f889a71fbb98d5
