@@ -217,4 +217,4 @@ LC | rice
 
 Boyi | Noodle
 
-Junior Jean | Chicken
+Junior Jean | Pumpkin Soup
