@@ -217,3 +217,4 @@ LC | rice
 
 Boyi | Noodle
 
+Junior Jean | Chicken
