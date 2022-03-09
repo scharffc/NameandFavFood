@@ -6,6 +6,8 @@ Edric | Eel rice
 
 Edric | Udon
 
+Marty | Potato
+
 Christelle | Vol au vent
 
 Jess | French fries
