@@ -2,6 +2,10 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Edric | Eel rice
+
+Edric | Udon
+
 Marty | Potato
 
 Christelle | Vol au vent
@@ -227,14 +231,22 @@ Alex Sverenyak | Borsch
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e4a2d9a8a31c356b66bd662ef982d4c06395e980
 Christelle | Macarons
 
 Federico | Steak frites
 
 Victor | Corned Beef
-=======
+
 Tenzing Salaka | Momo
+<<<<<<< HEAD
 >>>>>>> food-momo
 =======
 Elijah G | Éclair
 >>>>>>> food-Elijah
+=======
+
+Tiffany Hatzidimitriu | Souvlaki
+>>>>>>> e4a2d9a8a31c356b66bd662ef982d4c06395e980
