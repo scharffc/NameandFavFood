@@ -235,14 +235,22 @@ Josephine | Beef Sukiyaki
 
 Christelle | Macarons
 
-<<<<<<< HEAD
 Federico | Steak frites
-=======
+
+Kaiyin | Chicken Soup 
+
 Federico | Steak frites
 
 Victor | Corned Beef
 
 Tenzing Salaka | Momo
 
+Elijah G | Éclair
+
 Tiffany Hatzidimitriu | Souvlaki
->>>>>>> c465450be4746ab369c523a4eddc951558df1a3d
+
+Congying Zhang | mushroom
+
+Christian Concepcion | Chicken Adobo
+
+Congying Zhang | mushroom
