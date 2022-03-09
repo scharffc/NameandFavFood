@@ -228,3 +228,13 @@ Junior Jean | Pumpkin Soup
 Saahiil | Pizza
 
 Alex Sverenyak | Borsch
+
+Christelle | Macarons
+
+Federico | Steak frites
+
+Victor | Corned Beef
+
+Tenzing Salaka | Momo
+
+Tiffany Hatzidimitriu | Souvlaki
