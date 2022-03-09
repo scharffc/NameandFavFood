@@ -2,6 +2,10 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Edric | Eel rice
+
+Edric | Udon
+
 Marty | Potato
 
 Christelle | Vol au vent
