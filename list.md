@@ -24,6 +24,8 @@ Sean | Nachos
 
 Angela | Sushi
 
+Josephine | 
+
 Maksym | Pizza
 
 Karl | Drunken Noodles
@@ -225,7 +227,13 @@ Saahiil | Pizza
 
 Alex Sverenyak | Borsch
 
+Josephine | Beef Sukiyaki
+
 Christelle | Macarons
+
+Federico | Steak frites
+
+Kaiyin | Chicken Soup 
 
 Federico | Steak frites
 
@@ -233,6 +241,24 @@ Victor | Corned Beef
 
 Tenzing Salaka | Momo
 
+Elijah G | Éclair
+
 Tiffany Hatzidimitriu | Souvlaki
+
+Christian Concepcion | Chicken Adobo
+
+Xi Zhu | Hot pot
+
+Congying Zhang | Mushroom
+
+Daniel Peña | Fried Chicken
+
+Matthew Contrabasso | Ravioli 
+
+Karen Franco | Tacos
+
+Alex Yang | Salmon
+
+Betsy Gorelik | Plov
 
 Edric | Eel rice
