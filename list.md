@@ -168,6 +168,7 @@ Kai Wang | Rice
 
 Houqi | Spicy Chicken
 
+Daniel | Fried Chicken
 
 Christelle | Choucroute
 
