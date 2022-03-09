@@ -231,6 +231,8 @@ Alex Sverenyak | Borsch
 
 Christelle | Macarons
 
+Kaiyin | Chicken Soup 
+
 Federico | Steak frites
 
 Victor | Corned Beef
