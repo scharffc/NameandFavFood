@@ -253,5 +253,11 @@ Tiffany Hatzidimitriu | Souvlaki
 >>>>>>> e4a2d9a8a31c356b66bd662ef982d4c06395e980
 =======
 
+<<<<<<< HEAD
 Congying Zhang | mushroom
 >>>>>>> f1d04041e180101ed1cf75c6f3e1e17727ab9075
+=======
+Christian Concepcion | Chicken Adobo
+
+Congying Zhang | mushroom
+>>>>>>> 3190a42d5ca665834aad16b801026a5311b7a90a
