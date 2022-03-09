@@ -28,6 +28,8 @@ Sean | Nachos
 
 Angela | Sushi
 
+Josephine | 
+
 Maksym | Pizza
 
 Karl | Drunken Noodles
@@ -229,7 +231,11 @@ Saahiil | Pizza
 
 Alex Sverenyak | Borsch
 
+Josephine | Beef Sukiyaki
+
 Christelle | Macarons
+
+Federico | Steak frites
 
 Kaiyin | Chicken Soup 
 
@@ -248,4 +254,3 @@ Congying Zhang | mushroom
 Christian Concepcion | Chicken Adobo
 
 Congying Zhang | mushroom
-
