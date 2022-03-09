@@ -22,6 +22,8 @@ Sean | Nachos
 
 Angela | Sushi
 
+Josephine | 
+
 Maksym | Pizza
 
 Karl | Drunken Noodles
@@ -222,3 +224,5 @@ Junior Jean | Pumpkin Soup
 Saahiil | Pizza
 
 Alex Sverenyak | Borsch
+
+Josephine | Beef Sukiyaki
