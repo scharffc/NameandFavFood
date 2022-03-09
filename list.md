@@ -249,8 +249,6 @@ Elijah G | Éclair
 
 Tiffany Hatzidimitriu | Souvlaki
 
-Congying Zhang | mushroom
-
 Christian Concepcion | Chicken Adobo
 
 Xi Zhu | Hot pot
