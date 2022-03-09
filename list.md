@@ -264,3 +264,5 @@ Edric | Eel rice
 Mark | Potatoes
 
 Tumar | Bread
+Ron | Sushi
+Ron Kroening | Sushi
