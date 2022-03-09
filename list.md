@@ -2,6 +2,8 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Marty | Potato
+
 Christelle | Vol au vent
 
 Jess | French fries
@@ -225,5 +227,10 @@ Alex Sverenyak | Borsch
 
 Christelle | Macarons
 
-Tiffany Hatzidimitriu | Souvlaki
+Federico | Steak frites
 
+Victor | Corned Beef
+
+Tenzing Salaka | Momo
+
+Tiffany Hatzidimitriu | Souvlaki
