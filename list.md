@@ -2,6 +2,12 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Edric | Eel rice
+
+Edric | Udon
+
+Marty | Potato
+
 Christelle | Vol au vent
 
 Jess | French fries
@@ -21,6 +27,8 @@ Spencer | Pocky
 Sean | Nachos
 
 Angela | Sushi
+
+Josephine | 
 
 Maksym | Pizza
 
@@ -222,5 +230,37 @@ Junior Jean | Pumpkin Soup
 Saahiil | Pizza
 
 Alex Sverenyak | Borsch
+
+Josephine | Beef Sukiyaki
+
+Christelle | Macarons
+
+Federico | Steak frites
+
+Kaiyin | Chicken Soup 
+
+Federico | Steak frites
+
+Victor | Corned Beef
+
+Tenzing Salaka | Momo
+
+Elijah G | Éclair
+
+Tiffany Hatzidimitriu | Souvlaki
+
+Christian Concepcion | Chicken Adobo
+
+Xi Zhu | Hot pot
+
+Congying Zhang | Mushroom
+
+Daniel Peña | Fried Chicken
+
+Matthew Contrabasso | Ravioli 
+
+Karen Franco | Tacos
+
+Alex Yang | Salmon
 
 Betsy Gorelik | Plov
