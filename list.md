@@ -3,12 +3,6 @@ What is your name, favorite food?
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 Gisele | Thiebou Dieune
 
-Ousmane Ndiaye | Thiébou Dieune
-
-Moussa | Thiéré
-
-Christelle | Pate
-
 Mame Faty Kane | Hamburger
 
 Marty | Potato
