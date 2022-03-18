@@ -4,7 +4,7 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Moussa | Thiéré
 
-Christelle | Pate 
+Christelle | Pate
 
 Mame Faty Kane | Hamburger
 
