@@ -6,6 +6,8 @@ Moussa | Thiéré
 
 Christelle | Pate 
 
+Mame Faty Kane | Hamburger
+
 Marty | Potato
 
 Christelle | Vol au vent
@@ -270,3 +272,4 @@ Mark | Potatoes
 Tumar | Bread
 
 Angel | Steak
+
