@@ -275,3 +275,5 @@ Hamsira Pathan | Pasta
 Hamsira | Waffles
 
 Tenzing | Wings
+
+Tenzing | Halal food
