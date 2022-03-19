@@ -270,14 +270,6 @@ Tumar | Bread
 
 Angel | Steak
 
-<<<<<<< HEAD
 Hamsira Pathan | Pasta
 
 Hamsira | Waffles
-=======
-Tenzing | Burger
-
-Tenzing | Momo
-
-
->>>>>>> 42e7eaaa1901d08d4cb9c9d21311c07bb2c9e5f3
