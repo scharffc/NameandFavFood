@@ -266,3 +266,7 @@ Mark | Potatoes
 Tumar | Bread
 
 Angel | Steak
+
+Hamsira Pathan | Pasta
+
+Hamsira | Waffles
