@@ -273,3 +273,5 @@ Angel | Steak
 Hamsira Pathan | Pasta
 
 Hamsira | Waffles
+
+Tenzing | Wings
