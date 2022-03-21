@@ -279,3 +279,5 @@ Tenzing | Wings
 Tenzing | Halal food
 
 Stella | Sushi
+
+Yuxiang Liu | Diced chilli chicken
