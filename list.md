@@ -277,3 +277,5 @@ Hamsira | Waffles
 Tenzing | Wings
 
 Tenzing | Halal food
+
+Stella | Sushi
