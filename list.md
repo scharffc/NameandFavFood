@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Saurav | Chipotle 
 
+Christelle | Lentils
+
 Gisele | Thiebou Dieune
 
 Mame Faty Kane | Hamburger
