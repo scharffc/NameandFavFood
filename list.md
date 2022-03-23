@@ -1,6 +1,8 @@
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+Mame Gor DIEYE | Riz au poulet
+
 Gisele | Thiebou Dieune
 
 Mame Faty Kane | Hamburger
