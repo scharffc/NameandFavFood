@@ -1,6 +1,11 @@
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+
+Saurav | Chipotle 
+
+Christelle | Lentils
+
 Gisele | Thiebou Dieune
 
 Mame Faty Kane | Hamburger
@@ -283,3 +288,5 @@ Stella | Sushi
 Yuxiang Liu | Diced chilli chicken
 
 Tatiana | Skirt Steak
+
+Haonan | Burger
