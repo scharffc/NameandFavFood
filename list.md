@@ -2,7 +2,10 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+
 Kuan | Hamburger
+
+Ceasar | Chicken Sandwich 
 
 Matthew | Pasta
 
@@ -10,9 +13,7 @@ Joe | Pasta
 
 David | Tres Golpes
 
-Xiaofeng | Curry
-
-Christelle | French fried
+Xiaofeng | Curryyyyy
 
 Saurav | Chipotle 
 
