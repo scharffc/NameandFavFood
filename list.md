@@ -2,12 +2,16 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+<<<<<<< HEAD
+Joe | Pasta
+=======
 
 David | Tres Golpes
 
 Xiaofeng | Curry
 
 Christelle | French fried
+>>>>>>> 00a5085f917d0dbf37440d3d0e9692210a6e3279
 
 Saurav | Chipotle 
 
