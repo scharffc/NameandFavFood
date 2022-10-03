@@ -4,6 +4,16 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Kuan | Hamburger
 
+Matthew | Pasta
+
+Joe | Pasta
+
+David | Tres Golpes
+
+Xiaofeng | Curry
+
+Christelle | French fried
+
 Saurav | Chipotle 
 
 Christelle | Lentils
