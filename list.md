@@ -4,7 +4,7 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Christelle | French fried
 
-Xiaofeng | Curry
+Xiaofeng | Curryyyyy
 
 Saurav | Chipotle 
 
