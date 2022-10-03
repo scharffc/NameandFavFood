@@ -4,7 +4,11 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Christelle | Croque Monsieur
 
-Christelle | French fried
+Christelle | French fries
+
+Sanaya | Aflredo Pasta
+
+Kuan | Hamburger
 
 Ceasar | Chicken Sandwich 
 
