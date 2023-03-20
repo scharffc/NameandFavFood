@@ -4,7 +4,17 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Aldo | Shrimp
 
+Yared | Pizza
+
+JoeR | Pasta
+
+Haonan | Fried Rice
+
+Lazizjon | Plov
+
 Austin | Beef Patty
+
+Aida | Nice hearty meaty burger with onions
 
 Joseph | Pizza
 
