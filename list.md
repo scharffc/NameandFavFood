@@ -2,6 +2,8 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Cody | Sushi
+
 Aldo | Shrimp
 
 Yared | Pizza
@@ -36,7 +38,7 @@ Sanaya | Aflredo Pasta
 
 Kuan | Hamburger
 
-Ceasar | Chicken Sandwich 
+Ceasar | Chicken Sandwich
 
 Matthew | Pasta
 
@@ -46,11 +48,11 @@ David | Tres Golpes
 
 Xiaofeng | Curryyyyy
 
-Saurav | Chipotle 
+Saurav | Chipotle
 
 Christelle | Lentils
 
-Mame Gor DIEYE |  Riz au poulet
+Mame Gor DIEYE | Riz au poulet
 
 Gisele | Thiebou Dieune
 
@@ -78,7 +80,7 @@ Sean | Nachos
 
 Angela | Sushi
 
-Josephine | 
+Josephine |
 
 Maksym | Pizza
 
@@ -226,7 +228,6 @@ Kai Wang | Rice
 
 Houqi | Spicy Chicken
 
-
 Christelle | Choucroute
 
 Christelle | Thieb
@@ -239,7 +240,7 @@ Prince Paul | Tacos
 
 Kevin Lutz | Turkey Burger
 
-Benjamin Fein | Pizza 
+Benjamin Fein | Pizza
 
 Patrick Dwyer | Penne Pizza
 
@@ -287,7 +288,7 @@ Christelle | Macarons
 
 Federico | Steak frites
 
-Kaiyin | Chicken Soup 
+Kaiyin | Chicken Soup
 
 Federico | Steak frites
 
@@ -307,7 +308,7 @@ Congying Zhang | Mushroom
 
 Daniel Peña | Fried Chicken
 
-Matthew Contrabasso | Ravioli 
+Matthew Contrabasso | Ravioli
 
 Alex Yang | Salmon
 
