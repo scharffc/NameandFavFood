@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Brandon | Steak
 
+Freddy | Pizza
+
 Cody | Sushi
 
 Aldo | Shrimp
