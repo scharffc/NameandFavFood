@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Erin | Waffles
 
+Rushda | Jalebi
+
 Hemanvitha | Chicken
 
 RayJ | Pizza
