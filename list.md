@@ -2,7 +2,14 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+
 Monil Mody | chole bhatura
+
+Erin | Waffles
+
+Rushda | Jalebi
+
+Hemanvitha | Chicken
 
 RayJ | Pizza
 
@@ -351,3 +358,5 @@ Tatiana | Skirt Steak
 Haonan | Burger
 
 Hasib Ahammed | Biryani
+
+Carl | Sushi
