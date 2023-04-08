@@ -362,4 +362,4 @@ Hasib Ahammed | Biryani
 
 Carl | Sushi
 
-Aakash | Fried Chicken
+Aakash | Spicy Fried Chicken
