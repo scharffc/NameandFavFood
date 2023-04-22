@@ -4,6 +4,13 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Zia | Icecream
 
+Christelle20 | Macarons
+
+Ray | Donuts
+
+JoeRios | Pizza
+
+
 Carl | KBBQ
 
 Rushda | Jalebi
