@@ -1,7 +1,32 @@
 ﻿What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+Ritika | Pasta
 
+Zia | Icecream
+
+Aakash | Ramen
+
+Dhyey | Vadapav
+ 
+Samuel Viveros | Spicy Steak & French Fries
+
+Jimmy | Pizza
+
+Rudra | Puran Poli
+
+Ceasar-3 | Chicken Chunks
+
+Christelle20 | Macarons
+
+Ray | Donuts
+
+JoeRios | Pizza
+
+
+Carl | KBBQ
+
+Rushda | Jalebi
 
 Yared Yohannes | $5 biggie bag
 
@@ -18,6 +43,8 @@ Ceasar-2 | Chicken & Waffles
 Freddy Amgad | burger
 
 Aidan | German Sausages
+
+Jahid |Chicken fry 
 
 Ritika | Biryani
 
@@ -386,3 +413,8 @@ Rohit | chicken biryani
 Rohit | mutton biryani
 
 Dipesh | Biryani
+
+Rohit | chicken over Rice
+
+Pride | Duck
+
