@@ -4,11 +4,25 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Ray | Donuts
 
+JoeRios | Pizza
+
+Carl | KBBQ
+
+Rushda | Jalebi
+
+Yared Yohannes | $5 biggie bag
+
+Rushda Mansuri | Pizza
+
+Erin | Bagels
+
+Freddy Amgad | Pizza
+
 Zia | Fried fish
 
 Ceasar-2 | Chicken & Waffles
 
-Freddy Amgad | burger 
+Freddy Amgad | burger
 
 Aidan | German Sausages
 
@@ -377,3 +391,5 @@ Aakash | Spicy Fried Chicken
 Rohit | chicken biryani
 
 Rohit | mutton biryani
+
+Pride | Duck
