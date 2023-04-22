@@ -2,6 +2,8 @@
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+JoeRios | Pizza
+
 Zia | Fried fish
 
 Ceasar-2 | Chicken & Waffles
