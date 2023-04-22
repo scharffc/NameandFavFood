@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Zia | Icecream
 
+Jimmy | Pizza
+
 Ceasar-3 | Chicken Chunks
 
 Christelle20 | Macarons
@@ -399,4 +401,8 @@ Rohit | chicken biryani
 
 Rohit | mutton biryani
 
+
+Rohit | chicken over Rice
+
 Pride | Duck
+
