@@ -2,6 +2,8 @@
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Yash Kawade | Paani Puri
+
 Ceasar-2 | Chicken & Waffles
 
 Freddy Amgad | burger 
