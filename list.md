@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Zia | Icecream
 
+Ceasar-3 | Chicken Chunks
+
 Christelle20 | Macarons
 
 Ray | Donuts
