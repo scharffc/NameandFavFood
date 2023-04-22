@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Ceasar-3 | Chicken Chunks
 
+Freddy Amgad | Pizza
+
 Zia | Fried fish
 
 Ceasar-2 | Chicken & Waffles
