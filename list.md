@@ -4,6 +4,10 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Aakash | Ramen
 
+Samuel Viveros | Spicy Steak & French Fries
+
+Jimmy | Pizza
+
 Ceasar-3 | Chicken Chunks
 
 Christelle20 | Macarons
@@ -398,4 +402,7 @@ Rohit | chicken biryani
 
 Rohit | mutton biryani
 
+Rohit | chicken over Rice
+
 Pride | Duck
+
