@@ -2,6 +2,8 @@
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Ray | Donuts
+
 JoeRios | Pizza
 
 Carl | KBBQ
@@ -15,7 +17,6 @@ Rushda Mansuri | Pizza
 Erin | Bagels
 
 Freddy Amgad | Pizza
-
 
 Zia | Fried fish
 
