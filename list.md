@@ -11,6 +11,8 @@ Dhyey | Vadapav
  
 Samuel Viveros | Spicy Steak & French Fries
 
+Yash J | Pizza
+
 Jimmy | Pizza
 
 Rudra | Puran Poli
