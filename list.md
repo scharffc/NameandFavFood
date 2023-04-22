@@ -3,15 +3,12 @@
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 Ritika | Pasta
 
-<<<<<<< HEAD
 Zia | Icecream
 
-=======
 Aakash | Ramen
 
 Dhyey | Vadapav
  
->>>>>>> 4402295e37b9c1fec7f09407b28697495195d355
 Samuel Viveros | Spicy Steak & French Fries
 
 Jimmy | Pizza
