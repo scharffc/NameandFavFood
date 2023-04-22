@@ -5,6 +5,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Yared Yohannes | $5 biggie bag
 
+Rushda Mansuri | Pizza
+
 Erin | Bagels
 
 Freddy Amgad | Pizza
