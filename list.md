@@ -2,6 +2,8 @@
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Ceasar-3 | Chicken Chunks
+
 Christelle20 | Macarons
 
 Ray | Donuts
@@ -14,11 +16,7 @@ Rushda | Jalebi
 
 Yared Yohannes | $5 biggie bag
 
-
-Ceasar-3 | Chicken Chunks
-
 Rushda Mansuri | Pizza
-
 
 Erin | Bagels
 
