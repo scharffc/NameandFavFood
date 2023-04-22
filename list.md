@@ -41,6 +41,8 @@ Freddy Amgad | burger
 
 Aidan | German Sausages
 
+Jahid |Chicken fry 
+
 Ritika | Biryani
 
 Monil Mody | chole bhatura
