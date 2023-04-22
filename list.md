@@ -6,9 +6,15 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Ritika | Pasta
 
+Aakash | Ramen
+
+Dhyey | Vadapav
+ 
 Samuel Viveros | Spicy Steak & French Fries
 
 Jimmy | Pizza
+
+Rudra | Puran Poli
 
 Ceasar-3 | Chicken Chunks
 
@@ -37,6 +43,8 @@ Ceasar-2 | Chicken & Waffles
 Freddy Amgad | burger
 
 Aidan | German Sausages
+
+Jahid |Chicken fry 
 
 Ritika | Biryani
 
