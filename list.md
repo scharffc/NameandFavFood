@@ -2,6 +2,8 @@
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Samuel Viveros | Spicy Steak & French Fries
+
 Jimmy | Pizza
 
 Ceasar-3 | Chicken Chunks
@@ -397,7 +399,6 @@ Aakash | Spicy Fried Chicken
 Rohit | chicken biryani
 
 Rohit | mutton biryani
-
 
 Rohit | chicken over Rice
 
