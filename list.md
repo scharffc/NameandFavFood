@@ -40,6 +40,8 @@ Freddy Amgad | Pizza
 
 Zia | Fried fish
 
+Yash Kawade | Paani Puri
+
 Ceasar-2 | Chicken & Waffles
 
 Freddy Amgad | burger
