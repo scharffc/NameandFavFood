@@ -2,7 +2,11 @@
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+
 Ceasar-3 | Chicken Chunks
+
+Erin | Bagels
+
 
 Freddy Amgad | Pizza
 
