@@ -8,6 +8,8 @@ Ceasar-2 | Chicken & Waffles
 
 Freddy Amgad | burger 
 
+Shakti | Samosa
+
 Aidan | German Sausages
 
 Ritika | Biryani
