@@ -3,10 +3,11 @@
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
 
+Yared Yohannes | $5 biggie bag
+
 Rushda Mansuri | Pizza
 
 Erin | Bagels
-
 
 Freddy Amgad | Pizza
 
@@ -14,7 +15,7 @@ Zia | Fried fish
 
 Ceasar-2 | Chicken & Waffles
 
-Freddy Amgad | burger 
+Freddy Amgad | burger
 
 Aidan | German Sausages
 
