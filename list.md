@@ -2,6 +2,7 @@
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Rushda | Jalebi
 
 Yared Yohannes | $5 biggie bag
 
