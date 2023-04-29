@@ -6,6 +6,8 @@ Indeevara | Biryanii
 
 Ritika | Pasta
 
+Rene Irias | Tacos
+
 Zia | Icecream
 
 Aakash | Ramen
