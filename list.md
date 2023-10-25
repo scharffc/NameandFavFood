@@ -6,6 +6,8 @@ Carl | Sushi
 
 Indeevara | Biryanii
 
+Kevin | Sushi
+
 Ritika | Pasta
 
 Rene Irias | Tacos
@@ -31,7 +33,6 @@ Christelle20 | Macarons
 Ray | Donuts
 
 JoeRios | Pizza
-
 
 Carl | KBBQ
 
