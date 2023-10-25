@@ -27,6 +27,20 @@ Alex | Chinese Food
 
 Carl | Sushi
 
+Andre | Tacos
+
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
+
 Indeevara | Biryanii
 
 Kevin | Fish
