@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Indeevara | Biryanii
 
+Kevin | Sushi
+
 Ritika | Pasta
 
 Rene Irias | Tacos
@@ -29,7 +31,6 @@ Christelle20 | Macarons
 Ray | Donuts
 
 JoeRios | Pizza
-
 
 Carl | KBBQ
 
