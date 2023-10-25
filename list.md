@@ -1,9 +1,52 @@
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+
 Aleenah | KBBQ
 
+Michael | Chopped Cheese
+
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
+
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
+
+Andre | Tacos
+
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
+
 Indeevara | Biryanii
+
+Kevin | Fish
 
 Ritika | Pasta
 
@@ -30,7 +73,6 @@ Christelle20 | Macarons
 Ray | Donuts
 
 JoeRios | Pizza
-
 
 Carl | KBBQ
 
