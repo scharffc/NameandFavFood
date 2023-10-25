@@ -4,6 +4,18 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Andre | Tacos
 
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
+
 Indeevara | Biryanii
 
 Ritika | Pasta
