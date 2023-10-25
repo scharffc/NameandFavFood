@@ -4,11 +4,16 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Jason | Tacos
 
+Lihi | Crepe
+
+Alex | Chinese Food
+
 Carl | Sushi
+
 
 Indeevara | Biryanii
 
-Kevin | Sushi
+Kevin | Fish
 
 Ritika | Pasta
 
