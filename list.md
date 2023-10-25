@@ -6,6 +6,8 @@ Amer | Kofta
 
 Pride | Calamari
 
+Lihi | Crepe
+
 Alex | Chinese Food
 
 Carl | Sushi
