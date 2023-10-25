@@ -1,6 +1,19 @@
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+Michael | Chopped Cheese
+
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
 
 Jason | Tacos
 
