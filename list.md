@@ -6,7 +6,7 @@ Carl | Sushi
 
 Indeevara | Biryanii
 
-Kevin | Sushi
+Kevin | Fish
 
 Ritika | Pasta
 
