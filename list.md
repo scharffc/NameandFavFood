@@ -5,6 +5,8 @@ Junior Jean | Pizza
 
 Shawn | Italian
 
+Nico Middleton | Cookies
+
 Julia Tretyakov | Sushi
 
 Andrew Dinspechin | googoogaga
