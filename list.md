@@ -7,6 +7,8 @@ Shawn | Italian
 
 Nico Middleton | Cookies
 
+Prithvi Karkera | Pizza
+
 Julia Tretyakov | Sushi
 
 Andrew Dinspechin | googoogaga
