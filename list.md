@@ -3,7 +3,11 @@ What is your name, favorite food?
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
 
+
+Charitha Gangaraju | Biryani
+
 zaid | Pizza
+
 
 Christelle | French Fries
 
@@ -22,6 +26,7 @@ Nico Middleton | Cookies
 Prithvi Karkera | Pizza
 
 Vishesh Sharma | Pudding
+
 
 Julia Tretyakov | Sushi
 
