@@ -30,6 +30,8 @@ Joanne Pistulli | Sushi
 
 Daniel Basora | Pizza
 
+Sri Ramgopal | Chicken
+
 Aiden | Rice
 
 Wesley | Roasted Duck
