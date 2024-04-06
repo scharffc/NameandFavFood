@@ -1,15 +1,21 @@
 What is your name, favorite food?
 
-Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+Clone the repo, create a branch, add your name and favorite food to the list
+
 
 Shivani saineni | Pizza
 
+Sarjakkumar | Pizza
 
+Avinash Bhavancheekar | Pasta
+
+Christopher Ospina | shrimp Tacos
 
 Charitha Gangaraju | Biryani
 
-zaid | Pizza
+zaid | Pize
 
+Zhuowen | Fries
 
 Christelle | French Fries
 
@@ -517,3 +523,4 @@ Dipesh | Biryani
 Rohit | chicken over Rice
 
 Pride | Duck
+Bangling|AsianFood
