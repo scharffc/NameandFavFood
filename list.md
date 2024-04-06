@@ -2,6 +2,9 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list
 
+
+Shivani saineni | Pizza
+
 Sarjakkumar | Pizza
 
 Avinash Bhavancheekar | Pasta
