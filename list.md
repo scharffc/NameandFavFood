@@ -1,6 +1,9 @@
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+
+Saily | Pastries
+
 Junior Jean | Pizza
 
 Shawn | Italian
@@ -17,7 +20,7 @@ Jennifer Garcia | cake
 
 CS | Macarons
 
-Andrew Dinspechin | Pasta 2 
+Andrew Dinspechin | Pasta 2
 
 Andrew Dinspechin | Pasta
 
@@ -84,7 +87,7 @@ Zia | Icecream
 Aakash | Ramen
 
 Dhyey | Vadapav
- 
+
 Samuel Viveros | Spicy Steak & French Fries
 
 Yash J | Pizza
@@ -123,7 +126,7 @@ Freddy Amgad | burger
 
 Aidan | German Sausages
 
-Jahid |Chicken fry 
+Jahid |Chicken fry
 
 Ritika | Biryani
 
@@ -496,4 +499,3 @@ Dipesh | Biryani
 Rohit | chicken over Rice
 
 Pride | Duck
-
