@@ -525,4 +525,7 @@ Rohit | chicken over Rice
 
 Pride | Duck
 
+Bangling|Asian food
+
 Bangling|AsianFood
+
