@@ -5,6 +5,8 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 zaid | Pizza
 
+Christelle | French Fries
+
 Jitendra Rawat | Pasta
 
 Grishma Pandiyath | Burger
