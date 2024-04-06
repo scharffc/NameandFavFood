@@ -517,3 +517,4 @@ Dipesh | Biryani
 Rohit | chicken over Rice
 
 Pride | Duck
+Bangling|AsianFood
