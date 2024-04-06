@@ -1,7 +1,8 @@
 What is your name, favorite food?
 
-Clone the repo, create a branch, add your name and favorite food to the list
+Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+Saily | Pastries.
 
 Shivani saineni | Pizza
 
@@ -525,3 +526,6 @@ Rohit | chicken over Rice
 Pride | Duck
 
 Bangling|Asian food
+
+Bangling|AsianFood
+
