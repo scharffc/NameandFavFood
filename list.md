@@ -4,6 +4,14 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Sarjakkumar | Pizza
 
+Christopher Ospina | shrimp Tacos
+
+Charitha Gangaraju | Biryani
+
+zaid | Pizza
+
+Christelle | French Fries
+
 Jitendra Rawat | Pasta
 
 Grishma Pandiyath | Burger
@@ -19,6 +27,7 @@ Nico Middleton | Cookies
 Prithvi Karkera | Pizza
 
 Vishesh Sharma | Pudding
+
 
 Julia Tretyakov | Sushi
 
