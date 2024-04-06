@@ -1,6 +1,7 @@
 What is your name, favorite food?
 
-Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+Clone the repo, create a branch, add your name and favorite food to the list in the bra
+Sarjakkumar | Pizza
 
 Avinash Bhavancheekar | Pasta
 
@@ -9,7 +10,6 @@ Christopher Ospina | shrimp Tacos
 Charitha Gangaraju | Biryani
 
 zaid | Pizza
-
 
 Christelle | French Fries
 
