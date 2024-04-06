@@ -4,6 +4,28 @@ Clone the repo, create a branch, add your name and favorite food to the list in 
 
 Saily | Pastries.
 
+Shivani saineni | Pizza
+
+Sarjakkumar | Pizza
+
+Avinash Bhavancheekar | Pasta
+
+Christopher Ospina | shrimp Tacos
+
+Charitha Gangaraju | Biryani
+
+zaid | Pize
+
+Zhuowen | Fries
+
+Christelle | French Fries
+
+Jitendra Rawat | Pasta
+
+Grishma Pandiyath | Burger
+
+Kassandra Camarillo | Sushi
+
 Junior Jean | Pizza
 
 Shawn | Italian
@@ -11,6 +33,9 @@ Shawn | Italian
 Nico Middleton | Cookies
 
 Prithvi Karkera | Pizza
+
+Vishesh Sharma | Pudding
+
 
 Julia Tretyakov | Sushi
 
@@ -499,3 +524,5 @@ Dipesh | Biryani
 Rohit | chicken over Rice
 
 Pride | Duck
+
+Bangling|AsianFood
