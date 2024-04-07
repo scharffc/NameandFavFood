@@ -1,6 +1,6 @@
 What is your name, favorite food?
 
-Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
 koundinya pidaparthy | ulavacharu biryani
 
@@ -8,7 +8,7 @@ Satya Nandan Thota | Goat Curry
 
 Tandra Sri Ramgopal| Dosa
 
-Saily | Pastries.
+Saily | Pastries
 
 Shivani saineni | Pizza
 
