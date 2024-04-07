@@ -2,6 +2,8 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
 
+koundinya pidaparthy | ulavacharu biryani
+
 Satya Nandan Thota | Goat Curry
 
 Tandra Sri Ramgopal| Dosa
@@ -535,5 +537,3 @@ Satheesh | Dum Biriyani
 Bangling|Asian food
 
 Bangling|AsianFood
-
-koundinya pidaparthy | ulavacharu biryani
