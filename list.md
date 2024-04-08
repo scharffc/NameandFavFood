@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Gracia Betty | Biriyani
 
+Nannapaneni venkata puneeth chowdary | Biriyani
+
 Sharon | Tacos
 
 akbar | Pizza
