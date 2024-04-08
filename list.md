@@ -545,3 +545,5 @@ Satheesh | Dum Biriyani
 Bangling|Asian food
 
 Bangling|AsianFood
+
+puneeth | biryani
