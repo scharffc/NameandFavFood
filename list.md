@@ -42,6 +42,8 @@ zaid | Pize
 
 Zhuowen | Fries
 
+Ketevan Abuladze | Khinkali
+
 Christelle | French Fries
 
 Jitendra Rawat | Pasta
