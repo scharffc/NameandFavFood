@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Jocinda | Waffles
 
+Gabriel | Curry chicken with white rice
+
 Gabriel | Baked Ziti
 
 Eric Kouperman | BBQ Ribs
