@@ -2,7 +2,10 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
+Jocinda | Pancakes
+
 Gabriel | Oxtails w/ rice and peas
+
 Daniella Rabayev | Khachapuri
 
 Andrew | Penne Vodka
@@ -10,7 +13,6 @@ Andrew | Penne Vodka
 Christelle | Potee
 
 Christelle | French fries
-
 
 Aasritha | Biryani
 
