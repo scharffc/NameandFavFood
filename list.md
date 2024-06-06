@@ -4,6 +4,12 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Eric Kouperman | BBQ Ribs
 
+Kerisa | Tamales
+
+Lynn | Braaaaaaiiiiiiinnnnssss
+
+Noor | Pasta
+
 Jocinda | Pancakes
 
 Gabriel | Oxtails w/ rice and peas
