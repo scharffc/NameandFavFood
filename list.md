@@ -4,7 +4,35 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Dillon | Pizza
 
-Christelle | French fried
+Eric Kouperman | Barpacue Rips!
+
+Stephanie Sicilian | Broccli
+
+Jocinda | Waffles
+
+Gabriel | Curry chicken with white rice
+
+Gabriel | Baked Ziti
+
+Eric Kouperman | BBQ Ribs
+
+Kerisa | Tamales
+
+Lynn | Braaaaaaiiiiiiinnnnssss
+
+Noor | Pasta
+
+Jocinda | Pancakes
+
+Gabriel | Oxtails w/ rice and peas
+
+Daniella Rabayev | Khachapuri
+
+Andrew | Penne Vodka
+
+Christelle | Potee
+
+Christelle | French fries
 
 Aasritha | Biryani
 
