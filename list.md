@@ -4,7 +4,15 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Jocinda | Pancakes
 
-Christelle | French fried
+Gabriel | Oxtails w/ rice and peas
+
+Daniella Rabayev | Khachapuri
+
+Andrew | Penne Vodka
+
+Christelle | Potee
+
+Christelle | French fries
 
 Aasritha | Biryani
 
