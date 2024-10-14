@@ -4,6 +4,7 @@ What is your name, favorite food?
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
 Alyssa | Bread
+<<<<<<< HEAD
 
 Ayden | Pizza
 
@@ -31,6 +32,8 @@ Carson | Kimchi
 
 Nico Middleton | Chocolate cookies
 
+=======
+>>>>>>> 94b8c8cc4855948a0aad84f2dd689d6c311ef812
 
 Devin | French Toast
 
