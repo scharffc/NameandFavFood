@@ -3,17 +3,25 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
+Steven B | Shawarma!!
+
+Kenny | Potato
+
+Amogh Iyer | Biriyani
+
+Matthew Wrizar | Pizza, Fried Chicken, Fried Rice, Chiken Teriyaki, Shrimp Tempura, Chicken + Pork Katsu, Duck Buns, Drunken Chicken, Spring + Egg Rolls, Burgers, Desserts 
+
 Alyssa | Bread
 
 Ayden | Pizza
+
+william | sugarcookies 
 
 Gabe | Chocolate
 
 Gabriel F | Spaghetti and Meatballs
 
-
 Saatvik | Pizza
-
 
 Michael DePaolo | Hamburger
 
@@ -25,9 +33,7 @@ Younes | Pizza
 
 Carson | Kimchi
 
-
 Nico Middleton | Chocolate cookies
-
 
 Devin | French Toast
 
