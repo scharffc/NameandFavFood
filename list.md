@@ -2,7 +2,6 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
-<<<<<<< HEAD
 Yash | Pizza
 
 Ansley | Pasta
@@ -29,8 +28,6 @@ Shiv Vyas | Pasta and Pizza
 
 
 
-=======
->>>>>>> c56e815 (Add Yash Panchani and favorite food to list)
 Neelkamal | Chicken Biryani
 
 
