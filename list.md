@@ -6,6 +6,8 @@ Christelle | Croissant
 
 David | Bacon Egg and Cheese
 
+Cristian | Pizza
+
 Steven B | Shawarma!!
 
 Kenny | Potato
@@ -632,3 +634,5 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
+
+Parimal | Chinese Food
