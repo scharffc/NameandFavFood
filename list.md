@@ -633,3 +633,5 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
+
+Parimal | Chinese Food
