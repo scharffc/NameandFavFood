@@ -6,14 +6,11 @@ Abhyaung | Chicken Sandwich
 
 Parimal | Chinese Food
 
-
 Ansley | Pasta
 
 Fouzan | Shawarma
 
 Cristian | Pizza
-
-
 
 Lavanya | biriyani
 
