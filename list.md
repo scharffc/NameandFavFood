@@ -4,8 +4,9 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Cristian | Pizza
 
-David | Bacon Egg and Cheese
+Lavanya | biriyani
 
+David | Bacon Egg and Cheese
 
 Steven B | Shawarma!!
 
@@ -13,13 +14,13 @@ Kenny | Potato
 
 Amogh Iyer | Biriyani
 
-Matthew Wrizar | Pizza, Fried Chicken, Fried Rice, Chiken Teriyaki, Shrimp Tempura, Chicken + Pork Katsu, Duck Buns, Drunken Chicken, Spring + Egg Rolls, Burgers, Desserts 
+Matthew Wrizar | Pizza, Fried Chicken, Fried Rice, Chiken Teriyaki, Shrimp Tempura, Chicken + Pork Katsu, Duck Buns, Drunken Chicken, Spring + Egg Rolls, Burgers, Desserts
 
 Alyssa | Bread
 
 Ayden | Pizza
 
-william | sugarcookies 
+william | sugarcookies
 
 Gabe | Chocolate
 
@@ -42,7 +43,6 @@ Nico Middleton | Chocolate cookies
 Devin | French Toast
 
 Jonathan | Bacon Egg and Cheese
-
 
 Kerisa | Ashwagandha
 
