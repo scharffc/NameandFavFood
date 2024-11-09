@@ -2,6 +2,8 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
+Parimal | Chinese Food
+
 
 Ansley | Pasta
 
@@ -663,5 +665,4 @@ Bangling|AsianFood
 Dante | Pizza
 
 
-Parimal | Chinese Food
 
