@@ -1,6 +1,233 @@
 What is your name, favorite food?
 
-Clone the repo, create a branch, add your name and favorite food to the list in the branch, and merge back.
+Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
+
+Kadeem Miller | Pizza/Burgers
+
+Supreeth | Biryani
+
+Yash | Pizza
+
+Hinal | Pizza
+
+
+Parimal | Chinese Food
+=======
+Abhyaung | Chicken Sandwich
+
+
+Parimal | Chinese Food
+
+Ansley | Pasta
+
+Fouzan | Shawarma
+
+Cristian | Pizza
+
+Lavanya | biriyani
+
+
+David | Bacon Egg and Cheese
+
+Marlen | Pasta
+
+ZhifuChen | Pizza
+
+nadeemHussain | Biriyani
+
+
+Shiv Vyas | Pasta and Pizza 
+
+
+
+Neelkamal | Chicken Biryani
+
+
+Christelle | Croissant
+
+David | Bacon Egg and Cheese
+
+Mohan | Biriyani
+
+Steven B | Shawarma!!
+
+Kenny | Potato
+
+Amogh Iyer | Biriyani
+
+Matthew Wrizar | Pizza, Fried Chicken, Fried Rice, Chiken Teriyaki, Shrimp Tempura, Chicken + Pork Katsu, Duck Buns, Drunken Chicken, Spring + Egg Rolls, Burgers, Desserts
+
+Alyssa | Bread
+
+Ayden | Pizza
+
+william | sugarcookies
+
+Gabe | Chocolate
+
+Gabriel F | Spaghetti and Meatballs
+
+Saatvik | Pizza
+
+Michael DePaolo | Hamburger
+
+Dante | Fried Pickles
+
+Narumi | Jajangmyeon
+
+Younes | Pizza
+
+Carson | Kimchi
+
+Nico Middleton | Chocolate cookies
+
+Devin | French Toast
+
+Jonathan | Bacon Egg and Cheese
+
+Kerisa | Ashwagandha
+
+Eric Kouperman | Barpacue Rips!
+
+Stephanie Sicilian | Broccli
+
+Jocinda | Waffles
+
+Gabriel | Curry chicken with white rice
+
+Gabriel | Baked Ziti
+
+Eric Kouperman | BBQ Ribs
+
+Kerisa | Tamales
+
+Lynn | Braaaaaaiiiiiiinnnnssss
+
+Noor | Pasta
+
+Jocinda | Pancakes
+
+Gabriel | Oxtails w/ rice and peas
+
+Daniella Rabayev | Khachapuri
+
+Andrew | Penne Vodka
+
+Christelle | Potee
+
+Christelle | French fries
+
+Aasritha | Biryani
+
+Anirudh Padma | Chicken Shawarma
+
+Vamshidhar Reddy Mamidi | Biryani
+
+Gracia Betty | Biriyani
+
+Nannapaneni venkata puneeth chowdary | Biriyani
+
+Sharon | Tacos
+
+akbar | Pizza
+
+Shoaib | Biryani
+
+Niyati | Pani Puri
+
+koundinya pidaparthy | ulavacharu biryani
+
+Satya Nandan Thota | Goat Curry
+
+Tandra Sri Ramgopal| Dosa
+
+Saily | Pastries
+
+Shivani saineni | Pizza
+
+Sarjakkumar | Pizza
+
+Avinash Bhavancheekar | Pasta
+
+Christopher Ospina | shrimp Tacos
+
+Charitha Gangaraju | Biryani
+
+zaid | Pize
+
+Zhuowen | Fries
+
+Ketevan Abuladze | Khinkali
+
+Christelle | French Fries
+
+Jitendra Rawat | Pasta
+
+Grishma Pandiyath | Burger
+
+Kassandra Camarillo | Sushi
+
+Junior Jean | Pizza
+
+Shawn | Italian
+
+Nico Middleton | Cookies
+
+Prithvi Karkera | Pizza
+
+Vishesh Sharma | Pudding
+
+Julia Tretyakov | Sushi
+
+Andrew Dinspechin | googoogaga
+
+Jennifer Garcia | cake
+
+CS | Macarons
+
+Andrew Dinspechin | Pasta 2
+
+Andrew Dinspechin | Pasta
+
+Joanne Pistulli | Sushi
+
+Daniel Basora | Pizza
+
+Sri Ramgopal | Chicken
+
+Aiden | Rice
+
+Wesley | Roasted Duck
+
+Aleenah | KBBQ
+
+Michael | Chopped Cheese
+
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
+
+Jason | Tacos
+
+Amer | Kofta
+
+Pride | Calamari
+
+Lihi | Crepe
+
+Alex | Chinese Food
+
+Carl | Sushi
+
+Andre | Tacos
 
 Ant | Fries
 
@@ -31,7 +258,7 @@ Zia | Icecream
 Aakash | Ramen
 
 Dhyey | Vadapav
- 
+
 Samuel Viveros | Spicy Steak & French Fries
 
 Yash J | Pizza
@@ -70,7 +297,7 @@ Freddy Amgad | burger
 
 Aidan | German Sausages
 
-Jahid |Chicken fry 
+Jahid |Chicken fry
 
 Ritika | Biryani
 
@@ -443,4 +670,14 @@ Dipesh | Biryani
 Rohit | chicken over Rice
 
 Pride | Duck
+
+Satheesh | Dum Biriyani
+
+Bangling|Asian food
+
+Bangling|AsianFood
+
+Dante | Pizza
+
+
 
