@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Junior Jean | Chiecken Sandwich
 
+Sajal | Ham Burger
+
 Kadeem Miller | Pizza/Burgers
 
 Supreeth | Biryani
