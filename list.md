@@ -7,6 +7,8 @@ Junior Jean | Chiecken Sandwich
 
 Sajal | Ham Burger
 
+Connor Tway | Lobster Roll
+
 Kadeem Miller | Pizza/Burgers
 
 Supreeth | Biryani
