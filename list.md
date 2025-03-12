@@ -11,6 +11,8 @@ Sajal | Ham Burger
 
 Connor Tway | Lobster Roll
 
+Aidan | German Sausages (Second time posting)
+
 Kadeem Miller | Pizza/Burgers
 
 Supreeth | Biryani
