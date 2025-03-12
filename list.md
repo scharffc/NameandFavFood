@@ -3,6 +3,20 @@ What is your name, favorite food?
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 Russell | Sushi
 
+Donovan Lane | BBQ Bacon Burger
+
+Wilson Lu | Sushi
+
+ilir | Fried Chicken
+
+Junior Jean | Chiecken Sandwich
+
+Sajal | Ham Burger
+
+Connor Tway | Lobster Roll
+
+Aidan | German Sausages (Second time posting)
+
 Kadeem Miller | Pizza/Burgers
 
 Supreeth | Biryani
@@ -15,7 +29,6 @@ Parimal | Chinese Food
 
 Abhyaung | Chicken Sandwich
 
-
 Parimal | Chinese Food
 
 Ansley | Pasta
@@ -26,7 +39,6 @@ Cristian | Pizza
 
 Lavanya | biriyani
 
-
 David | Bacon Egg and Cheese
 
 Marlen | Pasta
@@ -35,13 +47,9 @@ ZhifuChen | Pizza
 
 nadeemHussain | Biriyani
 
-
-Shiv Vyas | Pasta and Pizza 
-
-
+Shiv Vyas | Pasta and Pizza
 
 Neelkamal | Chicken Biryani
-
 
 Christelle | Croissant
 
@@ -674,6 +682,3 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
-
-
-
