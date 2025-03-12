@@ -2,6 +2,8 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
+Junior Jean | Chiecken Sandwich
+
 Sajal | Ham Burger
 
 Kadeem Miller | Pizza/Burgers
@@ -16,7 +18,6 @@ Parimal | Chinese Food
 
 Abhyaung | Chicken Sandwich
 
-
 Parimal | Chinese Food
 
 Ansley | Pasta
@@ -27,7 +28,6 @@ Cristian | Pizza
 
 Lavanya | biriyani
 
-
 David | Bacon Egg and Cheese
 
 Marlen | Pasta
@@ -36,13 +36,9 @@ ZhifuChen | Pizza
 
 nadeemHussain | Biriyani
 
-
-Shiv Vyas | Pasta and Pizza 
-
-
+Shiv Vyas | Pasta and Pizza
 
 Neelkamal | Chicken Biryani
-
 
 Christelle | Croissant
 
@@ -675,6 +671,3 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
-
-
-
