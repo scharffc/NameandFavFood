@@ -1,6 +1,21 @@
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
+Russell | Sushi
+
+Donovan Lane | BBQ Bacon Burger
+
+Wilson Lu | Sushi
+
+ilir | Fried Chicken
+
+Junior Jean | Chiecken Sandwich
+
+Sajal | Ham Burger
+
+Connor Tway | Lobster Roll
+
+Aidan | German Sausages (Second time posting)
 
 Justin Tam | Tonkatsu
 
