@@ -4,11 +4,31 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Joel Avendano | Chipotle
 
+Russell Ng | Sushi
+
+Justin Tam | Tonkatsu
+
+Grace - Tacos
+
+Donovan Lane | BBQ Bacon Burger
+
 Wilson Lu | Sushi
+
+ilir | Fried Chicken
+
+Myron Weng | Soba
 
 Junior Jean | Chiecken Sandwich
 
 Sajal | Ham Burger
+
+Connor Tway | Lobster Roll
+
+Aidan | German Sausages (Second time posting)
+
+Isabella Esquilin | Dumplings
+
+Zara | Pasta 
 
 Kadeem Miller | Pizza/Burgers
 
