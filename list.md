@@ -9,6 +9,8 @@ Wilson Lu | Sushi
 
 ilir | Fried Chicken
 
+Myron Weng | Soba
+
 Junior Jean | Chiecken Sandwich
 
 Sajal | Ham Burger
