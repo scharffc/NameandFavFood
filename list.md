@@ -5,6 +5,8 @@ Wilson Lu | Sushi
 
 ilir | Fried Chicken
 
+Christelle | French fries
+
 Junior Jean | Chiecken Sandwich
 
 Sajal | Ham Burger
