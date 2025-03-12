@@ -4,6 +4,8 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Nathan Feng | Burger
 
+Joel Avendano | Chipotle
+
 Russell Ng | Sushi
 
 Justin Tam | Tonkatsu
