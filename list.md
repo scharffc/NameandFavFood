@@ -19,6 +19,8 @@ Connor Tway | Lobster Roll
 
 Aidan | German Sausages (Second time posting)
 
+Isabella Esquilin | Dumplings
+
 Kadeem Miller | Pizza/Burgers
 
 Supreeth | Biryani
