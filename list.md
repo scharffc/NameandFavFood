@@ -1,13 +1,117 @@
+Toni-Ann McDaniel | Saltfish
 What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
+Andy Then | Chicken
+
+Nathan Feng | Burger
+
+Joel Avendano | Chipotle
+
+Russell Ng | Sushi
+
+Justin Tam | Tonkatsu
+
+Grace - Tacos
+
+Donovan Lane | BBQ Bacon Burger
+
+Patrick Casseus | Korean BBQ
+
+Wilson Lu | Sushi
+
+ilir | Fried Chicken
+
+Myron Weng | Soba
+
+Junior Jean | Chiecken Sandwich
+
+Sajal | Ham Burger
+
+Connor Tway | Lobster Roll
+
+Aidan | German Sausages (Second time posting)
+
+Isabella Esquilin | Dumplings
+
+Zara | Pasta 
+
+Kadeem Miller | Pizza/Burgers
+
+Supreeth | Biryani
+
+Yash | Pizza
+
+Hinal | Pizza
+
+Parimal | Chinese Food
+
+Abhyaung | Chicken Sandwich
+
+Parimal | Chinese Food
+
+Ansley | Pasta
+
+Fouzan | Shawarma
+
+Cristian | Pizza
+
+Lavanya | biriyani
+
+David | Bacon Egg and Cheese
+
+Marlen | Pasta
+
+ZhifuChen | Pizza
+
+nadeemHussain | Biriyani
+
+Shiv Vyas | Pasta and Pizza
+
+Neelkamal | Chicken Biryani
+
+Christelle | Croissant
+
+David | Bacon Egg and Cheese
+
+Mohan | Biriyani
+
 Steven B | Shawarma!!
+
+Kenny | Potato
+
+Amogh Iyer | Biriyani
+
+Matthew Wrizar | Pizza, Fried Chicken, Fried Rice, Chiken Teriyaki, Shrimp Tempura, Chicken + Pork Katsu, Duck Buns, Drunken Chicken, Spring + Egg Rolls, Burgers, Desserts
+
+Alyssa | Bread
+
+Ayden | Pizza
+
+william | sugarcookies
+
+Gabe | Chocolate
+
+Gabriel F | Spaghetti and Meatballs
+
+Saatvik | Pizza
+
+Michael DePaolo | Hamburger
+
+Dante | Fried Pickles
+
+Narumi | Jajangmyeon
+
+Younes | Pizza
+
+Carson | Kimchi
+
+Nico Middleton | Chocolate cookies
 
 Devin | French Toast
 
 Jonathan | Bacon Egg and Cheese
-
 
 Kerisa | Ashwagandha
 
